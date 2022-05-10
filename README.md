@@ -11,8 +11,22 @@
 - 👨‍💻 Read more about my projects at [zouhairloucif.com](https://www.zouhairloucif.com)
 - 📫 How to reach me: [zouhair.loucif@gmail.com](mailto:hello@dineshkarthik.me)
 
+<br>
 
-<h3>Things I code with</h3>
+<!--- Buy me a coffee referral -->
+<p>
+  <a href="https://www.buymeacoffee.com/zouhairloucif" target="_blank" rel="noreferrer nofollow">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
+  </a>
+
+
+  <!-- Profile Views -->
+  ![Profile views](https://gpvc.arturio.dev/zouhairloucif)
+</p>
+
+<br>
+
+<h3>Things I code with :</h3>
 <p>
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -35,6 +49,7 @@
 
 
 <!-- Social links -->
+<h3>Connect with me :</h3>
 <p>
   <a href="https://www.instagram.com/zouhairloucif/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
@@ -51,17 +66,7 @@
 </p>
 
 
-<!--- Buy me a coffee referral -->
-<p>
-  <a href="https://www.buymeacoffee.com/zouhairloucif" target="_blank" rel="noreferrer nofollow">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
-  </a>
-</p>
-
-
 <!-- Metrics -->
+<h3>Stats :</h3>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zouhairloucif&show_icons=true&count_private=true)
-
-
-<!-- Profile Views -->
-![Profile views](https://gpvc.arturio.dev/zouhairloucif)
