@@ -1,15 +1,15 @@
-# Hi there 👋🏾, my name is Zouhair
+# Hi there 👋🏾, my name is Zouhair <!-- Profile Views --> ![Profile views](https://gpvc.arturio.dev/zouhairloucif)
 
 
-#### I'm a Software Engineer from Morocco ![](https://flagcdn.com/24x18/ma.png)
+#### I'm a Senior Software Developer from Morocco ![](https://flagcdn.com/24x18/ma.png) 
 
 - Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
-- 🔭 I’m currently working on [H5P](https://github.com/h5p)
+- 🔭 I’m currently working on [KDI](https://kongsbergdigital.com/)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about Infra & Devops
 - ⚡ Fun fact: I LOVE FOOTBALL ⚽️
 - 👨‍💻 Read more about my projects at [zouhairloucif.com](https://www.zouhairloucif.com)
-- 📫 How to reach me: [zouhair.loucif@gmail.com](mailto:hello@dineshkarthik.me)
+- 📫 How to reach me: [zouhair.loucif@gmail.com](mailto:zouhair.loucif@gmail.com)
 
 <br>
 
@@ -18,13 +18,7 @@
   <a href="https://www.buymeacoffee.com/zouhairloucif" target="_blank" rel="noreferrer nofollow">
     <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
   </a>
-
-
-  <!-- Profile Views -->
-  ![Profile views](https://gpvc.arturio.dev/zouhairloucif)
 </p>
-
-<br>
 
 <h3>Things I code with :</h3>
 <p>
@@ -64,9 +58,3 @@
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
   </a>
 </p>
-
-
-<!-- Metrics -->
-<h3>Stats :</h3>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zouhairloucif&show_icons=true&count_private=true)
