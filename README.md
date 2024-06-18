@@ -13,13 +13,6 @@
 
 <br>
 
-<!--- Buy me a coffee referral -->
-<p>
-  <a href="https://www.buymeacoffee.com/zouhairloucif" target="_blank" rel="noreferrer nofollow">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
-  </a>
-</p>
-
 <h3>Things I code with :</h3>
 <p>
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white">
