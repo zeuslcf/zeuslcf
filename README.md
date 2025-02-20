@@ -1,12 +1,12 @@
-# Hi there 👋🏾, my name is Zouhair <!-- Profile Views --> ![Profile views](https://gpvc.arturio.dev/zouhairloucif)
+# Hi there 👋🏾, my name is Zouhair
 
 
-#### I'm a Senior Software Developer from Morocco ![](https://flagcdn.com/24x18/ma.png) 
+#### I'm a Senior Software Developer
 
 - Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
 - 🔭 I’m currently working on [KDI](https://kongsbergdigital.com/)
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about Infra & Devops
+- 🌱 I’m currently learning everything 😆
+- 🥅 2025 Goals: Learn more about Infra & Devops
 - ⚡ Fun fact: I LOVE FOOTBALL ⚽️
 - 👨‍💻 Read more about my projects at [zouhairloucif.com](https://www.zouhairloucif.com)
 - 📫 How to reach me: [zouhair.loucif@gmail.com](mailto:zouhair.loucif@gmail.com)
@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/zouhairloucif">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
-  <a href="https://medium.com/@zouhairloucif">
-    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
+  <a href="mailto:zouhair.loucif@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a>
 </p>
