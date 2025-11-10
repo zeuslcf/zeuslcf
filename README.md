@@ -4,7 +4,7 @@
 #### I'm a Senior Software Developer
 
 - Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
-- 🔭 I’m currently working @ [KDI](https://kongsbergdigital.com/)
+- 🔭 I’m currently working  [KDI](https://kongsbergdigital.com/)
 - 🥅 2025 Goals: Learn more about Infra & Devops
 - ⚡ Fun fact: I LOVE FOOTBALL ⚽️
 - 📫 How to reach me: [zouhair.loucif@gmail.com](mailto:zouhair.loucif@gmail.com)
